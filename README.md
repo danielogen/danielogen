@@ -4,7 +4,7 @@
 <p align="center"><img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600" height="300"  /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel_ogenrwot"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/daniel-ogenrwot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me :
