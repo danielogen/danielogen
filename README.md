@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600" height="300"  /></p>
@@ -11,14 +10,10 @@
 
 Daniel is a Computer Science researcher and air quality enthusiast, passionate about building technical solutions to community challenges.
 
-He design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> cloud infrastructure and tools for automating processes between software and data science teams to ensure fast and reliable product delivery. His current research focuses on AI in Software Design, Software Reengineering and Pattern Recognition.
+He design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> cloud infrastructure and tools for automating processes between software and data science teams to ensure fast and reliable product delivery. His current research focuses on AI in Software Design, Software Reengineering and Pattern Recognition. His research publications are listed on [Google Scholar]() or [ORCID]() 
 
 Daniel is interested in learning and sharing knowledge within a team of diverse settings. At leisure, he loves playing the piano and listening to music.
-<!--
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
--->
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
