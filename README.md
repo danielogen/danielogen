@@ -10,7 +10,7 @@
 
 Daniel is a Computer Science researcher and air quality enthusiast, passionate about building technical solutions to community challenges.
 
-He design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> cloud infrastructure and tools for automating processes between software and data science teams to ensure fast and reliable product delivery. His current research focuses on AI in Software Design, Software Reengineering and Pattern Recognition. His research publications are listed on [Google Scholar]() or [ORCID]() 
+He design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> cloud infrastructure and tools for automating processes between software and data science teams to ensure fast and reliable product delivery. His current research focuses on AI in Software Design, Software Reengineering and Pattern Recognition. His research publications are listed on [Google Scholar]() or [ORCID](https://orcid.org/0000-0002-0133-8164) 
 
 Daniel is interested in learning and sharing knowledge within a team of diverse settings. At leisure, he loves playing the piano and listening to music.
 
