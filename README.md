@@ -39,7 +39,7 @@ Daniel is interested in learning and sharing knowledge within a team of diverse 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielogen&layout=compact&theme=vision-friendly-dark)](https://github.com/danielogen/github-readme-stats)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&theme=radical)
 
 ---
 
