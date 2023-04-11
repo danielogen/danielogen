@@ -1,12 +1,12 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"  /></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"  /></p> -->
 
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-ogenrwot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
 ### :man_technologist: &nbsp;About Me :
+<p>
+<a href="https://www.linkedin.com/in/daniel-ogenrwot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 Daniel is a Computer Science researcher and air quality enthusiast, passionate about building technical solutions to community challenges.
 
