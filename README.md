@@ -6,6 +6,7 @@
 ### :man_technologist: &nbsp;About Me :
 <p>
 <a href="https://www.linkedin.com/in/daniel-ogenrwot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.twitter.com/in/danielogenrwot" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 </p>
 
 Daniel is a Computer Science researcher and air quality enthusiast, passionate about building technical solutions to community challenges.
