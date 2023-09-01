@@ -9,7 +9,7 @@
 <a href="https://www.twitter.com/in/danielogenrwot" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 </p>
 
-Daniel is a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  PhD student and Graduate Research Assistant at [The University of Nevada, Las Vegas, USA](https://unlv.edu). His current research focuses on Empirical Software Research, Patch & Clone Detection, Mining Software Repositories (MSR), Software Re-engineering and Machine Learning in Software Engineering. His research publications are listed on <a href="https://scholar.google.com/citations?user=ZpCrmOQAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://orcid.org/0000-0002-0133-8164" target="_blank">ORCID</a>.
+Daniel is a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  PhD student and Graduate Research Assistant at the [University of Nevada, Las Vegas, USA](https://unlv.edu). His current research focuses on Empirical Software Research, Patch & Clone Detection, Mining Software Repositories (MSR), Software Re-engineering and Machine Learning in Software Engineering. His research publications are listed on <a href="https://scholar.google.com/citations?user=ZpCrmOQAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://orcid.org/0000-0002-0133-8164" target="_blank">ORCID</a>.
 
 Daniel is interested in learning and sharing knowledge within a team of diverse settings. At leisure, he loves playing the piano and listening to music.
 
@@ -36,9 +36,9 @@ Daniel is interested in learning and sharing knowledge within a team of diverse 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielogen&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielogen&layout=compact&hide_border=true&theme=material-palenight&hide_border=true&bg_color=1F222E)](https://github.com/danielogen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielogen&layout=compact&hide_border=true&theme=material-palenight&bg_color=1F222E)](https://github.com/danielogen/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&background=1F222E")
 
 ---
 
