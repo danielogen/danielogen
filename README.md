@@ -34,11 +34,11 @@ Daniel is interested in learning and sharing knowledge within a team of diverse 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielogen&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielogen&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielogen&layout=compact&theme=vision-friendly-dark)](https://github.com/danielogen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielogen&layout=compact&hide_border=true&theme=material-palenight&hide_border=true&bg_color=1F222E)](https://github.com/danielogen/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E")
 
 ---
 
