@@ -1,7 +1,5 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"  /></p> -->
-
 
 ### :man_technologist: &nbsp;About Me :
 <p>
@@ -13,6 +11,8 @@
 - :mag_right: My current research focuses on empirical software engineering, patch & clone detection and machine learning for software engineering. I spend most of my time building tools to supports those kind of research
 - I'm interested in learning and sharing knowledge within a team of diverse settings.
 - At leisure, I love playing the piano :musical_keyboard:, listening to music :headphones: and playing soccer :soccer:.
+  
+![](https://komarev.com/ghpvc/?username=your-github-danielogen&color=blueviolet)
 
 ---
 
