@@ -8,7 +8,7 @@
 </p>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Computer Science PhD student and Graduate Research Assistant at the [University of Nevada, Las Vegas, USA](https://unlv.edu).
-- :mag_right: My current research focuses on empirical software engineering, patch & clone detection and machine learning for software engineering. I spend most of my time building tools to supports those kind of research
+- :mag_right: My current research focuses on empirical software engineering, patch & clone detection and machine learning for software engineering. I spend most of my time building tools to support these kind of research.
 - I'm interested in learning and sharing knowledge within a team of diverse settings.
 - At leisure, I love playing the piano :musical_keyboard:, listening to music :headphones: and playing soccer :soccer:.
   
