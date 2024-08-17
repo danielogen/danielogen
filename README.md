@@ -9,9 +9,10 @@
 <a href="https://www.twitter.com/in/danielogenrwot" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 </p>
 
-Daniel is a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  PhD student and Graduate Research Assistant at the [University of Nevada, Las Vegas, USA](https://unlv.edu). His current research focuses on Empirical Software Engineering, Patch & Clone Detection, Mining Software Repositories (MSR), Software Re-engineering and Machine Learning in Software Engineering. His research publications are listed on <a href="https://scholar.google.com/citations?user=ZpCrmOQAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://orcid.org/0000-0002-0133-8164" target="_blank">ORCID</a>.
-
-Daniel is interested in learning and sharing knowledge within a team of diverse settings. At leisure, he loves playing the piano and listening to music.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Computer Science PhD student and Graduate Research Assistant at the [University of Nevada, Las Vegas, USA](https://unlv.edu).
+- :mag_right: My current research focuses on empirical software engineering, patch & clone detection and machine learning for software engineering. I spend most of my time building tools to supports those kind of research
+- I'm interested in learning and sharing knowledge within a team of diverse settings.
+- At leisure, I love playing the piano :musical_keyboard:, listening to music :headphones: and playing soccer :soccer:.
 
 ---
 
@@ -22,18 +23,13 @@ Daniel is interested in learning and sharing knowledge within a team of diverse 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&theme=cobalt)
 
 ---
