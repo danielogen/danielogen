@@ -30,7 +30,8 @@
 </p>
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielogen&show_icons=true&theme=cobalt)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=danielogen&theme=ambient_gradient&show_icons=true)
 
 ---
 
